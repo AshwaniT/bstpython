@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eacf41f7-6615-4571-935b-e14e23e7e68b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1049284972">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="4" />
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1549824052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1" />
+          <entry key="py" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="111" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policetree/PoliceNodeAmtComparer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policetree/policenode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policetree/policenodecomparer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trafficsystem/violator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trafficsystem/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trafficsystem/trafficfinesystem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policetree/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileio/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileio/filehelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trafficsystem/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pytest</find>
+      <find>PoliceIdBaseNode</find>
+      <find>test_amt_cmp_greatger_than</find>
+      <find>Compare(</find>
+      <find>policeId</find>
+      <find>flo</find>
+      <find>int</find>
+      <find>FileHelper</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>compare(</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PoliceTree/__init__.py" />
+        <option value="$PROJECT_DIR$/PoliceTree/node.py" />
+        <option value="$PROJECT_DIR$/policetree/policenodetest.py" />
+        <option value="$PROJECT_DIR$/policetree/policeidbasednode.py" />
+        <option value="$PROJECT_DIR$/policetree/finebasednode.py" />
+        <option value="$PROJECT_DIR$/policetree/policenod.py" />
+        <option value="$PROJECT_DIR$/policetree/policenodecomparer.py" />
+        <option value="$PROJECT_DIR$/tests/test_policenode.py" />
+        <option value="$PROJECT_DIR$/policetree/policetree.py" />
+        <option value="$PROJECT_DIR$/policetree/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/test_policetree.py" />
+        <option value="$PROJECT_DIR$/tests/testread.txt" />
+        <option value="$PROJECT_DIR$/tests/test_fileio.py" />
+        <option value="$PROJECT_DIR$/trafficsystem/inputPS3.txt" />
+        <option value="$PROJECT_DIR$/tests/inputPS3.txt" />
+        <option value="$PROJECT_DIR$/fileio/filehelper.py" />
+        <option value="$PROJECT_DIR$/policetree/policenode.py" />
+        <option value="$PROJECT_DIR$/policetree/bst.py" />
+        <option value="$PROJECT_DIR$/tests/test_traffic_system.py" />
+        <option value="$PROJECT_DIR$/trafficsystem/violator.py" />
+        <option value="$PROJECT_DIR$/policetree/PoliceNodeAmtComparer.py" />
+        <option value="$PROJECT_DIR$/fileio/__init__.py" />
+        <option value="$PROJECT_DIR$/trafficsystem/trafficfinesystem.py" />
+        <option value="$PROJECT_DIR$/trafficsystem/__init__.py" />
+        <option value="$PROJECT_DIR$/trafficsystem/Main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="16" />
+    <option name="width" value="1349" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PS3_TF_G18.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PS3_TF_G18.py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PS3_TF_G18.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PS3_TF_G18.py" type="462c0819:PsiDirectoryNode" />
+              <item name="trafficsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trafficsystem" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trafficsystem/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_policetree" type="PythonConfigurationType" factoryName="Python">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_policetree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trafficfinesystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trafficsystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trafficsystem/trafficfinesystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_traffic_system.TestTrafficeSys" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_traffic_system.TestTrafficeSys&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_Write_tree" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_traffic_system.TestTrafficeSys.test_Write_tree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ASSIGNMENT1_PUN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_traffic_system.TestTrafficeSys.test_reorder&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_policetree" />
+      <item itemvalue="Python.trafficfinesystem" />
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys.test_Write_tree" />
+      <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys.test_reorder" />
+      <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.trafficfinesystem" />
+        <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys.test_reorder" />
+        <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys.test_Write_tree" />
+        <item itemvalue="Python tests.Unittests for test_traffic_system.TestTrafficeSys" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eacf41f7-6615-4571-935b-e14e23e7e68b" name="Default Changelist" comment="" />
+      <created>1562920345438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562920345438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 02h 00m 31s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys - 2019.07.11 at 22h 49m 58s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_Write_tree - 2019.07.11 at 23h 20m 29s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_Write_tree" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 20m 57s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 21m 32s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 22m 21s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 24m 29s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 26m 01s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 28m 13s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_traffic_system_TestTrafficeSys_test_reorder - 2019.07.11 at 23h 28m 56s.xml">
+      <configuration name="Unittests for test_traffic_system.TestTrafficeSys.test_reorder" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25848302" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3656958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.17959183" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25878137" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.32200646" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39967638" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32917318" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.17959183" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_policenode.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_policetree.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_fileio.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_fileio.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_traffic_system.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_traffic_system.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_traffic_system.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trafficsystem/trafficfinesystem.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PoliceTree/node.py" />
+    <entry file="file://$PROJECT_DIR$/policetree/policenodetest.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policetree/finebasednode.py" />
+    <entry file="file://$PROJECT_DIR$/policetree/policeidbasednode.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/unittest/suite.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/unittest/util.py" />
+    <entry file="file://$PROJECT_DIR$/tests/testread.txt" />
+    <entry file="file://$PROJECT_DIR$/tests/test_policetree.py" />
+    <entry file="file://$PROJECT_DIR$/trafficsystem/inputPS3.txt" />
+    <entry file="file://$PROJECT_DIR$/tests/test_fileio.py" />
+    <entry file="file://$PROJECT_DIR$/tests/testwrite.txt" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/unittest/loader.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_policenode.py" />
+    <entry file="file://$PROJECT_DIR$/tests/bonus.txt" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/contextlib.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/tests/orig.txt" />
+    <entry file="file://$PROJECT_DIR$/tests/inputPS3.txt" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/queue.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_traffic_system.py" />
+    <entry file="file://$PROJECT_DIR$/policetree/bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policetree/PoliceNodeAmtComparer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policetree/policenode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policetree/policenodecomparer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficsystem/violator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficsystem/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficsystem/trafficfinesystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policetree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileio/filehelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficsystem/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

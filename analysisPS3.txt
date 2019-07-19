@@ -1,0 +1,8 @@
+> Find out the drivers who are booked for legal action
+	O(n) 
+> Insert into driverhash 
+	best case : O(1) constant time
+	worst case: O(log(n)) where n is list in single bucket.
+
+>  Find out the policemen who are eligible for bonus
+	O(n)  -> travesal complexity is O(n+m) as its binary tree then O(n + n-1), which is O(n).
